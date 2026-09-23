@@ -36,3 +36,8 @@ A real Temporal execution must be correlated to a governance decision and recons
 This repository contains architecture, implementation, tests, and experiment evidence for the wedge. Do not commit secrets, credentials, customer data, private Temporal endpoints, proprietary customer information, or sensitive evidence.
 
 See docs/FROZEN-SPECIFICATION.md.
+
+
+## License
+
+This independent wedge is released under the Apache License 2.0. This license applies only to this repository and does not grant rights to proprietary ArgOS repositories or implementations.
